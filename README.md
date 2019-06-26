@@ -10,5 +10,4 @@ _Start:_
 2. Importe a biblioteca:
 ````javascript
 import svgpng from 'svg-to-png-lite';
-let png = svgpng("svg-id");
-console.log(svgpng(png));
+svgpng("svg-id").then(console.log).catch(console.error)
