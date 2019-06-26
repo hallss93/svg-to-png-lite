@@ -1,6 +1,6 @@
 # svg-to-png-lite
 
-> Módulo para exclusão de objetos repetidos. O módulo considera key e values idênticos e a estrutura idêntica.
+> Converter SVG para PNG.
 
 ## Como iniciar
 

@@ -1,6 +1,6 @@
 {
   "name": "svg-to-png-lite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converter SVG para PNG.",
   "main": "index.js",
   "scripts": {
