@@ -21,7 +21,7 @@ Exemplo 2:
 ````javascript
 // Determinando Width e Height - Passando ID e Opções
 svgpng("svg-id", {width:300, height:300}).then(console.log).catch(console.error)
-
+````
 ## OPÇÕES
 
 ### WIDTH `Number`.  Default `largura do SVG`
